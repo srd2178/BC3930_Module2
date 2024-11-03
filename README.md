@@ -1,6 +1,6 @@
 # BC3930_Module2
 
-## Blog: [Module 2 Project - Snake]([https://spotted-cayenne-502.notion.site/Module-2-Project-Sanrio-Space-Invaders-12b28a677bce809c89b8e704d8e946c2](https://incongruous-literature-ab3.notion.site/Module-2-Project-Documentation-121b01346aae80409711c275d86a3efa?pvs=4))
+## Blog: [Module 2 Project - Snake](https://incongruous-literature-ab3.notion.site/Module-2-Project-Documentation-121b01346aae80409711c275d86a3efa?pvs=4)
 
 ### Tools Needed:
 1. LILYGO ESP32 Board
@@ -20,7 +20,7 @@
 
 - `lab2.ino` - arduino file with code for serial communication with ESP32
 
-`/enclosure` - has files for enclosure design that were used to laser cut
+`/enclosureDesign` - has files for enclosure design project STL and SVG that were used to laser cut
 
 `/snake` - folder with file to Processing file with the snake game
 
