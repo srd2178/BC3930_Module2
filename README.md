@@ -33,7 +33,7 @@
 
 ### Instructions
 1. Use the Fritzing diagram to properly connect wires and parts to breadboard
-2. Download SVG files and use them to laser cut each layer (2 of the middle layer)
+2. Download SVG files from `/enclosureDesign` and use them to laser cut each layer (2 of the middle layer)
 3. Compile the joystick, button, and screw them in place in the enclosure with 4 M3 screws
 4. Plug in USB-C cord to ESP32 and download + open `lab2.ino` on Arduino and upload to the ESP32
 5. Download and open `sushsnake.pde` from `/snake` in Processing
