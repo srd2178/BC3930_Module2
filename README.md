@@ -43,7 +43,7 @@
 ### Media
 
 # Gameplay!: 
-<img width="607" alt="fritzdiagram" src="https://github.com/srd2178/BC3930_Module2/blob/main/media/gameplay.mov">
+<img width="607" alt="fritzdiagram" src="https://github.com/srd2178/BC3930_Module2/blob/main/media/ScreenRecording2024-11-03at4.17.00PM-ezgif.com-video-to-gif-converter.gif">
 
 
 # Enclosure photos (front and back view)
