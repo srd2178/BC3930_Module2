@@ -16,7 +16,7 @@
  
 ### Files and Descriptions
 
-`/jotstickAndButton` - arduino file called lab2.ino is located here and has the code that is for establishing serial communication for ESP32 board 
+`/joystickAndButtonArduino` - arduino file called lab2.ino is located here and has the code that is for establishing serial communication for ESP32 board 
 
 - `lab2.ino` - arduino file with code for serial communication with ESP32
 
@@ -37,14 +37,15 @@
 3. Compile the joystick, button, and screw them in place in the enclosure with 4 M3 screws
 4. Plug in USB-C cord to ESP32 and download + open `lab2.ino` on Arduino and upload to the ESP32
 5. Download and open `sushsnake.pde` from `/snake` in Processing
-6. Download the `/arduinoButtonAndJoystick` and `/sanrioinvaders` folders
-7. Ensure ports are correctly correlated and joystick + button are connected
-8. Run the game on Processing and enjoy! Use mouse to click game options
+6. Ensure ports are correctly correlated and joystick + button are connected
+7. Run the game on Processing and enjoy! Use mouse to click game options
    
 ### Media
 
 # Gameplay!: 
-https://github.com/srd2178/BC3930_Module2/blob/main/media/IMG_0040%20(1).mov
+<img width="607" alt="fritzdiagram" src="https://github.com/srd2178/BC3930_Module2/blob/main/media/gameplay.mov">
+
+
 # Enclosure photos (front and back view)
 ![frontview](https://github.com/user-attachments/assets/899dbb50-a129-451f-877d-eb01a37186f3)
 ![backview](https://github.com/user-attachments/assets/cfbe3006-bb35-4f8d-9fd6-0162aacc48eb)
