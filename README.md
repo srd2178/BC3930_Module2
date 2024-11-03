@@ -44,8 +44,7 @@
 ### Media
 
 # Gameplay!: 
-[https://github.com/user-attachments/assets/5a80bb89-0fcb-4d04-890f-efea8de33748
-](https://github.com/srd2178/BC3930_Module2/blob/main/media/IMG_0040%20(1).mov)
+https://github.com/srd2178/BC3930_Module2/blob/main/media/IMG_0040%20(1).mov
 # Enclosure photos (front and back view)
 ![frontview](https://github.com/user-attachments/assets/899dbb50-a129-451f-877d-eb01a37186f3)
 ![backview](https://github.com/user-attachments/assets/cfbe3006-bb35-4f8d-9fd6-0162aacc48eb)
