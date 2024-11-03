@@ -48,5 +48,5 @@ View the joystick and button in action here: https://youtu.be/ILMgdqFTuaA
 
 
 # Enclosure photos (front and back view)
-![frontview](https://github.com/user-attachments/assets/899dbb50-a129-451f-877d-eb01a37186f3)
-![backview](https://github.com/user-attachments/assets/cfbe3006-bb35-4f8d-9fd6-0162aacc48eb)
+![side](https://github.com/srd2178/BC3930_Module2/blob/main/media/IMG_0042.JPG)
+![top](https://github.com/srd2178/BC3930_Module2/blob/main/media/IMG_0044.JPG)
