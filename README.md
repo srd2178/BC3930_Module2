@@ -28,22 +28,22 @@
   
 ### Fritzing Diagram
 
-<img width="607" alt="fritzdiagram" src="https://github.com/user-attachments/assets/df4b17f3-2255-42ab-8668-069a451cace2">
+<img width="607" alt="fritzdiagram" src="https://github.com/srd2178/BC3930_Module2/blob/main/media/fritzingdiagram.png">
 
 
-### Setup
-1. Follow the Fritzing diagram and add your button, joystick, wires, and ESP32 board to the breadboard
-2. Connect your ESP32 board to your computer via a USB-C cord
-3. Download the `/arduinoButtonAndJoystick` and `/sanrioinvaders` folders
-4. Open these folders in the Arduino IDE application and Processing application, respectively
-5. Confirm that your ESP32 board connects to the Arduino application by running the arduino code file `buttonjoystick.ino` (you should see printed values read from the serial communication)
-6. Open the `sanrioinvaders.pde` from the `/sanrioinvaders` folder in the Processing application and ensure that it runs and complies
-8. Once a screen pops up from the Processing application go ahead and press "s" on the keyboard to start!
+### Instructions
+1. Use the Fritzing diagram to properly connect wires and parts to breadboard
+2. Download SVG files and use them to laser cut each layer (2 of the middle layer)
+3. Compile the joystick, button, and screw them in place in the enclosure with 4 M3 screws
+4. Plug in USB-C cord to ESP32 and download + open `lab2.ino` on Arduino and upload to the ESP32
+5. Download and open `sushsnake.pde` from `/snake` in Processing
+6. Download the `/arduinoButtonAndJoystick` and `/sanrioinvaders` folders
+7. Ensure ports are correctly correlated and joystick + button are connected
+8. Run the game on Processing and enjoy! Use mouse to click game options
    
-~ *Feel free to make any edits to the code after downloading and experiment on your own!* ~
 ### Media
 
-# Game Play video: 
+# Gameplay!: 
 https://github.com/user-attachments/assets/5a80bb89-0fcb-4d04-890f-efea8de33748
 
 # Enclosure photos (front and back view)
